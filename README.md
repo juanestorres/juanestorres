@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanestorres (Juan Torres)
 - 👀 I’m interested in Full Stack Development, Data engineering, Data & Analytics and Big data.
-- 🌱 I’m currently learning Front end framkeworks such as React.js and Angular.js.
+- 🌱 I’m currently learning Front end frameworks such as React.js and Angular.js.
 - 💞️ I’m looking to collaborate on any kind of project related with my interests since I'm always eager to learn and work on different projects.
 - 📫 How to reach me. email or iMessage: juanes_1323@hotmail.com Phone: +573112132317 
 
