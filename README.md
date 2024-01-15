@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanestorres (Juan Torres)
-- 👀 I’m a Sofware Engineer with experience in Elixir, Phoenix, Flutter, Fastapi, React and Node.
+- 👀 I’m a Sofware Engineer with experience in Elixir, Phoenix, Flutter, Python, React and Node.
 - 💞️ I’m looking to collaborate on any kind of project related with my interests since I'm always eager to learn and work on different projects.
 - 📫 How to reach me. email or iMessage: juanes_1323@hotmail.com Phone: +573112132317 
 
